@@ -1,0 +1,3 @@
+rootProject.name = 'wiigoxpress_4386'
+
+include ':app'
